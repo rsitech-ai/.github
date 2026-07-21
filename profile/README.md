@@ -1,3 +1,5 @@
+<img src="assets/rsitech-banner.png" alt="RSI Tech — native apps, open-source developer tools, and applied AI systems" width="100%">
+
 # RSI Tech
 
 RSI Tech is an independent applied-AI engineering studio. Our open-source work focuses on local-first native apps, developer systems, and research tooling.
