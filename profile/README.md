@@ -2,9 +2,15 @@
 
 # RSI Tech
 
-RSI Tech is an independent applied-AI engineering studio. Our open-source work focuses on local-first native apps, developer systems, and research tooling.
+RSI Tech is an independent engineering studio building open-source data infrastructure, local-first software, and applied-AI systems.
 
 [rsitech.ai](https://rsitech.ai) · [Repositories](https://github.com/orgs/rsitech-ai/repositories) · [info@rsitech.ai](mailto:info@rsitech.ai)
+
+## Flagship products
+
+- **[Multichain](https://github.com/rsitech-ai/multichain-rs)** — source-qualified blockchain observation, replay, and canonicality across Bitcoin, Ethereum, Solana, and BNB Smart Chain. `Rust` · [v0.1.0 developer preview](https://github.com/rsitech-ai/multichain-rs/releases/tag/v0.1.0)
+- **[cryptofeed-rs](https://github.com/rsitech-ai/cryptofeed-rs)** — Rust-native, multi-exchange market-data ingestion with exact fixed-point events and an optional `marketfeed` daemon. `Rust` · [v0.1.0-alpha.1](https://github.com/rsitech-ai/cryptofeed-rs/releases/tag/v0.1.0-alpha.1)
+- **[hlscreen](https://github.com/rsitech-ai/hlscreen)** — read-only Hyperliquid spot market-data recording, replay, and terminal screening. `Rust` · [v0.1.2](https://github.com/rsitech-ai/hlscreen/releases/tag/v0.1.2)
 
 ## Knowledge and capture
 
@@ -24,7 +30,6 @@ RSI Tech is an independent applied-AI engineering studio. Our open-source work f
 
 ## Research systems
 
-- **[hlscreen](https://github.com/rsitech-ai/hlscreen)** — read-only Rust TUI for recording, replaying, and screening public Hyperliquid spot market data. `Rust` · [v0.1.2](https://github.com/rsitech-ai/hlscreen/releases/tag/v0.1.2)
 - **[Atlas](https://github.com/rsitech-ai/atlas)** — strict-offline, local-first crypto research workstation for macOS. `Python`
 - **[AssetRail](https://github.com/rsitech-ai/asset-rail)** — offline macOS prototype for deterministic crypto withdrawal-route planning with synthetic fixtures. It does not connect to exchanges or wallets and cannot submit a withdrawal. `Rust` · [v0.1.0](https://github.com/rsitech-ai/asset-rail/releases/tag/v0.1.0)
 
