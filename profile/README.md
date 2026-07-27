@@ -33,6 +33,10 @@ RSI Tech is an independent engineering studio building open-source data infrastr
 - **[Atlas](https://github.com/rsitech-ai/atlas)** — strict-offline, local-first crypto research workstation for macOS. `Python`
 - **[AssetRail](https://github.com/rsitech-ai/asset-rail)** — offline macOS prototype for deterministic crypto withdrawal-route planning with synthetic fixtures. It does not connect to exchanges or wallets and cannot submit a withdrawal. `Rust` · [v0.1.0](https://github.com/rsitech-ai/asset-rail/releases/tag/v0.1.0)
 
+## Fintech and compliance
+
+- **[KSeFolio](https://github.com/rsitech-ai/ksefolio)** — open-source KSeF invoice and settlement intelligence for Polish businesses. `Rust` · `Swift`
+
 ## Work with us
 
 [Contributing](https://github.com/rsitech-ai/.github/blob/main/CONTRIBUTING.md) · [Security](https://github.com/rsitech-ai/.github/security/policy) · [rsitech.ai](https://rsitech.ai) · [info@rsitech.ai](mailto:info@rsitech.ai)
