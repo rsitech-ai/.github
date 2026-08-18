@@ -15,7 +15,7 @@ RSI Tech is an independent engineering studio building open-source data infrastr
 ## Knowledge and capture
 
 - **[LiteratureAtlas](https://github.com/rsitech-ai/LiteratureAtlas)** — local-first research atlas for macOS and iPadOS. `Swift` · [v1.0.0](https://github.com/rsitech-ai/LiteratureAtlas/releases/tag/v1.0.0)
-- **[Voice Inbox Watch](https://github.com/rsitech-ai/voice-inbox-watch)** — Apple Watch voice capture with a headless Mac bridge. `Swift` · [v0.1.0](https://github.com/rsitech-ai/voice-inbox-watch/releases/tag/v0.1.0)
+- **[Codex Watch](https://github.com/rsitech-ai/codex-watch)** — Apple Watch voice capture with a local macOS companion. Physical Watch acceptance remains `blocked:external`. Codex delivery is a local App Server Inbox thread, not ChatGPT.app. `Swift` · [v0.1.0](https://github.com/rsitech-ai/codex-watch/releases/tag/v0.1.0)
 - **[IdeaForge](https://github.com/rsitech-ai/IdeaForge)** — native Apple workspace for turning spoken ideas into reviewable engineering packets. `Swift`
 - **[Clip Vault](https://github.com/rsitech-ai/clip_vault)** — local-first encrypted clipboard workspace for macOS. `Swift`
 - **[SnapAction](https://github.com/rsitech-ai/SnapAction)** — turns screen or image OCR into confirmed Reminders, Calendar events, or clipboard output. `Swift` · [v0.1.0 prerelease](https://github.com/rsitech-ai/SnapAction/releases/tag/v0.1.0)
